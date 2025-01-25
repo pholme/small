@@ -711,6 +711,7 @@ padgett_PADGM.adj,ucinet,15,20,social
 PAKISTAN.adj,singh2020janes,78,97,transport
 pappus.adj,frucht1977canonical,18,27,graph
 paschgraph.adj,https://mathworld.wolfram.com/PaschGraph.html,10,12,graph
+pdist.adj,https://www.math.wm.edu/~leemis/chart/UDR/UDR.html,76,96,other
 pentagonalhexecontahedralgraph.adj,https://en.wikipedia.org/wiki/Polyhedron,92,150,graph
 pentakisdodecahedralgraph.adj,https://en.wikipedia.org/wiki/Polyhedron,32,90,graph
 perkelgraph.adj,perkel1979bounding,57,171,graph
